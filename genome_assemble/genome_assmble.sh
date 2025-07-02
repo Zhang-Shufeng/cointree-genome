@@ -1,0 +1,2 @@
+hifiasm -o TQS_hap -t 40 --ul-cut 15000 -D10 --hom-cov 71 --h1 Hic_clean.R1.fastq.gz --h2 Hic_clean.R1.fastq.gz --ul ONT_pass_reads.fasta.gz Hifi.ccs.fastq.gz >hap.log
+# the above command generated two preliminary haplotypes: hap.hic.hap1.p_ctg.gfa and hap.hic.hap2.p_ctg.gfa
