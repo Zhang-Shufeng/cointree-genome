@@ -21,5 +21,11 @@ wgdi -c 4.c.conf
 ```
 wgdi -ak 5.ak.conf
 ```
-### 6.
-
+### 6.-km parameter is used to infer the ancestral karyotype sequence based on synteny information.
+```
+wgdi -km 6.km.conf
+```
+### 7. -k parameter is used to draw ancestral chromosome maps.
+```
+wgdi -k 7.k.conf
+```
