@@ -3,10 +3,6 @@
 ```
 wgdi -d 1.d.conf
 ```
-![Uploading 推导.2.png…]()
-
-
-
 ## 2.Perform collinearity calculation using the -icl parameter.
 ```
 wgdi -icl 2.icl.conf
